@@ -39,7 +39,7 @@ Welcome to the Basic R Programming repository! This repository contains a collec
     git clone https://github.com/AbhisekhNayek/R_Programming.git
     ```
 
-    Replace `YourRepositoryName` with the actual name of the repository.
+    Replace `R_Programming` with the actual name of the repository.
 4. Once the cloning is complete, navigate to the cloned repository:
 
     ```bash
